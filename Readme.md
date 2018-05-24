@@ -14,7 +14,7 @@ This project uses splash to first render a webpage in docker and then parse it u
 
 	$ scrapy crawl bot
 
-    	A file json_file.txt will be created having all the data.
+    	A file data_file.csv will be created having all the data.
 
 ### The Working ###
 
